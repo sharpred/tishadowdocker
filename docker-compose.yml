@@ -1,0 +1,6 @@
+version: '2'
+services:
+  tishadow:
+    image: tishadowtryout
+    ports:
+      - 3000:3000
